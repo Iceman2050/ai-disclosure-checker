@@ -13,7 +13,7 @@ The EU AI Act's transparency duties are live: users must know when they're inter
 Python 3.8+, no dependencies (stdlib only):
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ai-disclosure-checker.git
+git clone https://github.com/Iceman2050/ai-disclosure-checker.git
 cd ai-disclosure-checker
 python3 checker.py https://your-site.example
 ```
