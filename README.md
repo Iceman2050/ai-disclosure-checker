@@ -1,3 +1,5 @@
+[![AI Security Score](https://ingeniousai-security-checks.netlify.app/badges/ai-disclosure-checker.svg)](https://ingeniousai-security-checks.netlify.app/ai-security-badge.html)
+
 # ai-disclosure-checker
 
 A free, open-source heuristic scanner that checks a website for common **EU AI Act transparency-disclosure gaps**: unidentified chatbots, privacy pages with no AI section, unlabeled AI-generated images, "powered by AI" claims with no disclosure link, and missing machine-readable disclosure.
